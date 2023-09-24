@@ -7,7 +7,6 @@ import ExternalLink from './ExternalLink.tsx';
 
 import { Aside, AsideCard } from './AsideContainer.styles.tsx';
 
-import MapCard from '../features/main-container/MapCard.tsx';
 const AsideContainer = () => {
   return (
     <Aside>
